@@ -12,9 +12,10 @@ A Flutter app prototype for eco-friendly route planning between cities with mult
 ## Getting Started
 
 1. Clone repo and run:
-   flutter pub get
-   flutter run
-
+```
+flutter pub get
+flutter run
+```
 2. Routes data is loaded from `assets/routes.json`.
 
 ## Design Decisions
