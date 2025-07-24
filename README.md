@@ -11,7 +11,7 @@ A Flutter app prototype for eco-friendly route planning between cities with mult
 
 ## Getting Started
 
-##Quick Start
+## Quick Start
 1. Install Dependencies
 ```
 flutter pub get
@@ -23,17 +23,17 @@ flutter run
 ```
 The app starts on your connected emulator or device.
 
-##Mock Data
+## Mock Data
 Location: assets/routes.json
 
-##Loading Method:
+## Loading Method:
 The mock routes are loaded at runtime using Flutter's rootBundle.loadString('assets/routes.json') method. The routes JSON includes multiple transport modes (driving, bicycling, transit, walking) with example metrics (distance, time, CO₂, score). No network configuration or mock server is needed.
 
-##Design Decisions
+## Design Decisions
 Framework Choice:
 Flutter was chosen for rapid cross-platform development, native performance, and expressive UI.
 
-##Libraries:
+## Libraries:
 
 provider — State management, for scalable and reactive UI.
 
@@ -41,7 +41,7 @@ google_maps_flutter — Interactive map previews, polylines, and markers.
 
 Flutter core libraries for navigation and UI components.
 
-##Project Structure:
+## Project Structure:
 
 assets/ — Static resources (including routes.json).
 
