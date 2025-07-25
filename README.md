@@ -9,10 +9,10 @@ A Flutter app prototype for eco-friendly route planning between cities with mult
 - State management with Provider for clean architecture
 - Loads route data from local JSON asset
 
-## Getting Started
-
 ## Video Demo
 Youtube: https://www.youtube.com/shorts/bp3ajxxMUWU
+
+## Getting Started
 
 ## Quick Start
 1. Install Dependencies
