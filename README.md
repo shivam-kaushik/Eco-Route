@@ -11,6 +11,9 @@ A Flutter app prototype for eco-friendly route planning between cities with mult
 
 ## Getting Started
 
+## Video Demo
+Youtube: https://www.youtube.com/shorts/bp3ajxxMUWU
+
 ## Quick Start
 1. Install Dependencies
 ```
